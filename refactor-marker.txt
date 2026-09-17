@@ -1,0 +1,1 @@
+Harmless valid refactor after repository binding.
