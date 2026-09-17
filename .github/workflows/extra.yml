@@ -1,9 +1,0 @@
-name: Harmless extra workflow
-on: workflow_dispatch
-permissions: {}
-jobs:
-  marker:
-    runs-on: ubuntu-latest
-    timeout-minutes: 1
-    steps:
-      - run: echo extra-workflow-fixture
